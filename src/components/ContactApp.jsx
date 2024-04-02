@@ -64,7 +64,6 @@ class ContactApp extends React.Component {
         <div className="contact-app">
           <header className="contact-app__header">
             <h1>Aplikasi Kontak</h1>
-            <Navigation />
           </header>
           <main>
             <Routes>
